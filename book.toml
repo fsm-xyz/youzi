@@ -1,0 +1,6 @@
+[book]
+authors = ["formych"]
+language = "en"
+multilingual = false
+src = "src"
+title = "游资"
